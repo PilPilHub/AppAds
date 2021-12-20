@@ -6,8 +6,8 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
+      "admob_banner_id" : "ca-app-pub-5246528886709644/4830967380",
+      "admob_interstitial_id" : "ca-app-pub-5246528886709644/9891722373",
       "admob_native_id" : "",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
@@ -24,8 +24,8 @@
       "applovin_banner_id" : "8f8adbe23a2325ba",
       "applovin_interstitial_id" : "6f061601f6d6e31e"
     },
-    "mode_ads_banner" : "applovin",
-    "mode_ads_interstitial" : "applovin",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "",
